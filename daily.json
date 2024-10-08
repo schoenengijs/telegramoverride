@@ -88,5 +88,11 @@
     "riddle":"Burn",
     "rebus":"Escrow",
     "funds":["diamonds","blockchain_projects","gold_mining_tools"]
+  },
+    "2024-10-08": {
+    "riddle":"Slippage",
+    "rebus":"Escrow",
+    "funds":["classic_cars","space_companies","gold_mining_tools"]
   }
+  
 }
