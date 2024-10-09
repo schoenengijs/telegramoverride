@@ -98,7 +98,7 @@
   },
   "2024-10-09": {
     "riddle":"Pool",
-    "rebus":"Block",
+    "rebus":"Hash",
     "funds":["diamonds","blockchain_projects","gold_mining_tools"]
   }
 }
