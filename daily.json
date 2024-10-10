@@ -58,6 +58,7 @@
     "Who are futurists and why do we need them? Episode 59": 1959,
     "Rethinking wealth: Bill Gates' lessons on life values and his vision of an ideal world.": 2021,
     "Simple steps to create a profitable business model. Episode 61": 52161,
+    "Why do most people stay poor? Simple tips for managing your money. Episode 62": 98162,
     "Revolutionizing business: the teal Organization. Episode 57": 49057,
     "Who will help you succeed? Choosing between a coach and a mentor. Episode 60": 88960,
     "The 5 key areas for personal growth. Episode 58": 88658,
@@ -84,24 +85,14 @@
       "onlyfans_models",
       "blockchain_projects"
   ],
-  "2024-10-06": {
-    "riddle":"Governance",
-    "rebus":"Stake",
-    "funds":["electric_vehicle_manufacturers","real_estate_in_nigeria","space_companies"]
-  },
-  "2024-10-07": {
-    "riddle":"Burn",
-    "rebus":"Escrow",
-    "funds":["diamonds","blockchain_projects","gold_mining_tools"]
-  },
-  "2024-10-08": {
-    "riddle":"Slippage",
-    "rebus":"Block",
-    "funds":["classic_cars","space_companies","gold_mining_tools"]
-  },
   "2024-10-09": {
     "riddle":"Pool",
     "rebus":"Hash",
     "funds":["diamonds","blockchain_projects","gold_mining_tools"]
+  },
+  "2024-10-10": {
+    "riddle":"Whale",
+    "rebus":"Custody",
+    "funds":["artificial_intelligence","onlyfans_models","real_estate_in_nigeria"]
   }
 }
